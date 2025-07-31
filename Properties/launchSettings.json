@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Clase-06-Métodos-y-funciones-en-C#": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
